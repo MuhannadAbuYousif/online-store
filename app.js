@@ -1,6 +1,5 @@
 
 
-// Users module integrated
-//// Products module integrated
+// Main application
 // Orders module integrated
 console.log("main code to file   ");
